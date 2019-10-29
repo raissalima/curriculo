@@ -1,5 +1,5 @@
 # curriculo
 segunda tentativa de exercicio perifacode
 
-vamos porgamar sim!!!!!
+vamos programar sim!!!!!
 "nova linha" 
